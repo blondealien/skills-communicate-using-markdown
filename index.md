@@ -13,3 +13,7 @@ FROM
 WHERE
   CreatedOn > DateAdd(d,-14,getdate())
 ```
+
+- [ ] Item 1
+- [X] Item 2 done
+- [ ] Item 3 still waiting
